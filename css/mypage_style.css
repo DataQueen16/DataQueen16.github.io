@@ -16,3 +16,11 @@
 a:hover {
     color: purple;
 }
+
+.collapsible-header {
+    background-color: rgb(164, 176, 164);
+}
+
+.collapsible {
+    background-color: rgb(227, 222, 218);
+}
