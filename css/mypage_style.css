@@ -25,20 +25,16 @@
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
 
+.papaya {
+    background-color: papayawhip;
+}
+
 a, a:link {
     color: purple !important;
 }
 
 a:hover {
     color: darkblue !important;
-}
-
-.collapsible-header {
-    background-color: rgb(164, 176, 164);
-}
-
-.collapsible {
-    background-color: rgb(227, 222, 218);
 }
 
 .invisible {
