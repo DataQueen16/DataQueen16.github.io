@@ -1,10 +1,19 @@
 #resume { /*Background image for resume page*/
     background-image: url("../img/pen_bubbles.jpg");
     background-position: center;
+    background-size: contain;
 }
 
 .title {
     background-color: #D3BEE5;
+}
+
+.skillset {
+    background-color: #87D2F5;
+}
+
+.pbackground {
+    background-color: #F9AD89;
 }
 
 .shadows {   /* Add shadows to create the "card" effect */
