@@ -1,20 +1,27 @@
-/*#color1 {*/
-    /*background-color: lightgrey;*/
-/*}*/
+#resume { /*Background image for resume page*/
+    background-image: url("../img/pen_bubbles.jpg");
+    background-position: center;
+}
 
-.shadows {
-    /* Add shadows to create the "card" effect */
+.title {
+    background-color: #D3BEE5;
+}
+
+.shadows {   /* Add shadows to create the "card" effect */
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     transition: 0.3s;
 }
 
-/* On mouse-over, add a deeper shadow */
-.shadows:hover {
+.shadows:hover {  /* On mouse-over, add a deeper shadow */
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
 
+a, a:link {
+    color: purple !important;
+}
+
 a:hover {
-    color: purple;
+    color: darkblue !important;
 }
 
 .collapsible-header {
@@ -23,4 +30,8 @@ a:hover {
 
 .collapsible {
     background-color: rgb(227, 222, 218);
+}
+
+.invisible {
+    display: none;
 }
