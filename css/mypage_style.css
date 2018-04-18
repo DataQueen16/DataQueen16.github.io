@@ -1,3 +1,7 @@
+main {
+    background-color: papayawhip;
+}
+
 #resume { /*Background image for resume page*/
     background-image: url("../img/pen_bubbles.jpg");
     background-position: center;
