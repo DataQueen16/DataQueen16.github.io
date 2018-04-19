@@ -8,6 +8,19 @@ main {
     background-size: contain;
 }
 
+.img-sm {
+    height: 40px;
+    width: 40px;
+}
+
+.social-media {
+    background-color: #88C1E4;
+}
+
+.artwork {
+    background-color: #349385;
+}
+
 .title {
     background-color: #D3BEE5;
 }
