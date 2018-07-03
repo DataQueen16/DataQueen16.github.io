@@ -51,11 +51,11 @@ main {
 }
 
 a, a:link {
-    color: purple !important;
+    color: darkblue !important;
 }
 
 a:hover {
-    color: darkblue !important;
+    color: purple !important;
 }
 
 .invisible {
