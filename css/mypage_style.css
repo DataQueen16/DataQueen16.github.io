@@ -4,8 +4,10 @@ main {
 
 #resume { /*Background image for resume page*/
     background-image: url("../img/resilience.jpeg");
-    background-position: center;
-    background-size: contain;
+    background-color: #77759b;
+    background-position: top left;
+    background-size: 400px 600px;
+    background-repeat: no-repeat;
 }
 
 .img-sm {
