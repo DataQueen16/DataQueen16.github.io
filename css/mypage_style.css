@@ -14,6 +14,14 @@ body {
     background: linear-gradient(to bottom,#77759b, 75%, #C3C3C3);
 }
 
+.my-modal {
+    min-width: 600px !important;
+}
+
+dt, a:link {
+    color: #77759b !important;
+}
+
 .img-sm {
     height: 40px;
     width: 40px;
@@ -60,7 +68,7 @@ body {
     background-color: papayawhip;
 }
 
-a, a:link {
+#contact a:link {
     color: darkblue !important;
 }
 

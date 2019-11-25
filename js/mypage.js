@@ -6,4 +6,8 @@
         $(this).parent().next().toggleClass('invisible');
     });
 
+    $('#resumeModal').on('shown.bs.modal', function () {
+        $('#resumeModalLabel').trigger('focus')
+    })
+
 })();
