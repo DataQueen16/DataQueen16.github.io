@@ -2,10 +2,16 @@ main {
     background-color: papayawhip;
 }
 
-#resume { /*Background image for resume page*/
-    /* background-image: url("../img/resilience.jpeg"); */
-    background-color: #77759b;
-    /* background-size: 400px 600px; */
+html {
+    min-height: 100%;
+}
+
+body {
+    min-height: 100%;
+}
+
+#resume { 
+    background: linear-gradient(to bottom,#77759b, 75%, #C3C3C3);
 }
 
 .img-sm {
@@ -33,8 +39,12 @@ main {
     background-color: #87D2F5;
 }
 
-.pbackground {
-    background-color: #F9AD89;
+.grey-card {
+    background-color: #C3C3C3;
+}
+
+.resume {
+    width: 100%;
 }
 
 .shadows {   /* Add shadows to create the "card" effect */
