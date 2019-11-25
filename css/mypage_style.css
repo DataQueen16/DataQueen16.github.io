@@ -18,7 +18,7 @@ body {
     min-width: 600px !important;
 }
 
-dt, a:link {
+div.contact, dt, a:link {
     color: #77759b !important;
 }
 
@@ -68,8 +68,8 @@ dt, a:link {
     background-color: papayawhip;
 }
 
-#contact a:link {
-    color: darkblue !important;
+a, a:link {
+    color: darkblue;
 }
 
 a:hover {
