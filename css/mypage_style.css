@@ -72,6 +72,10 @@ a, a:link {
     color: darkblue;
 }
 
+p>a:link {
+    color: darkblue !important;
+}
+
 a:hover {
     color: purple !important;
 }
